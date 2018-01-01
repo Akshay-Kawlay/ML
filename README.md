@@ -2,7 +2,7 @@ These are machine learning exercises/assignments from the online course - Machin
 
 The code can be run in Octave/Matlab. To run, enter the following in the Octave/Matlab command window:
 
-$ ex*
+  ex*
 
 Replace * with the desired exercise number
 
