@@ -9,6 +9,12 @@ Replace * with the desired exercise number
 
 
 
+.
+.
+.
+.
+
+
 
 
 Thank you Andrew Ng and Team for a great learning experience
